@@ -1,16 +1,12 @@
-### Hi there 👋
+# temp-repo
+#### Hi, It is kind of Lab in OSS Lecture by Professor, Youngmin Oh
 
-<!--
-**gtrod/gtrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+I wanna be a greatest programmer in the world with everyone!
+## Info
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Open source Software
+- 👯 I’m looking to collaborate on game developing
+- 🤔 I’m looking for help with my friend in univ
+- 💬 Ask me about Game
+- 📫 How to reach me: rise26@naver.com
+
